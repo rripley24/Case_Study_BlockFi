@@ -1,2 +1,2 @@
-# Fintech_Homework_1
+BlockFi
 Fintech Case Study
